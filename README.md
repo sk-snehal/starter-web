@@ -11,3 +11,5 @@ Sample website with plenty of files for demos
 this is a simple project for git operations
 
 ## Deployment
+
+deplyment can be on any server
