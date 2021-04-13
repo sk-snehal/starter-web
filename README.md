@@ -13,3 +13,4 @@ this is a simple project for git operations
 ## Deployment
 
 deplyment can be on any server
+like tomcat etc
